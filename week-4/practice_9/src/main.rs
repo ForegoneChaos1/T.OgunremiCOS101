@@ -4,7 +4,7 @@ fn main() {
 
     for num in 1..21 {
         if num > 10 {
-            println!("{:?}", num);
+            println!("{/:?}", num);
               continue;
         }
         count+=1;
